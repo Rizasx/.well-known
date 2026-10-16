@@ -16,11 +16,10 @@
       "package_name": "com.aethelgard.checkpointxray",
       "sha256_cert_fingerprints": [
         "6F:F7:62:D1:04:05:9B:57:67:42:4A:EC:84:17:78:66:24:EE:55:EE"
-      ]
-    }
-  }
-    },
-  {
+       ]
+     }
+   },
+   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
