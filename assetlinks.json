@@ -19,4 +19,13 @@
       ]
     }
   }
+    },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aethelgard.gunsmokebounty",
+      "sha256_cert_fingerprints": ["52:85:92:FE:6C:5A:07:98:DE:D8:2C:C9:BE:A8:CB:11:80:86:2D:3B:7A:1B:95:B4:80:F2:28:CE:53:F5:CF:31"]
+    }
+  }
 ]
